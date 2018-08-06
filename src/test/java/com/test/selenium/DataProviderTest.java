@@ -43,5 +43,6 @@ public class DataProviderTest {
 	public void sampleTest(String fname, String lname, String email, String contact, String zip) throws FileNotFoundException, IOException {
 
 		System.out.println(fname + ", " + lname + ", " + email + ", " + contact + ", " + zip);
+		System.out.println("Done");
 	}
 }
