@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="NYRR Test Frontend" duration-ms="842" started-at="2018-08-06T12:42:21Z" finished-at="2018-08-06T12:42:22Z">
+    <groups>
+    </groups>
+    <test name="Test Customer Setup" duration-ms="842" started-at="2018-08-06T12:42:21Z" finished-at="2018-08-06T12:42:22Z">
+      <class name="com.test.selenium.DataProviderTest">
+        <test-method status="PASS" signature="sampleTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.selenium.DataProviderTest@62043840]" name="sampleTest" duration-ms="6" started-at="2018-08-06T18:12:22Z" data-provider="getData" finished-at="2018-08-06T18:12:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ted]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roggers 1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[tedroggers1@yopmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[201010]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method status="PASS" signature="sampleTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.selenium.DataProviderTest@62043840]" name="sampleTest" duration-ms="0" started-at="2018-08-06T18:12:22Z" data-provider="getData" finished-at="2018-08-06T18:12:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ted]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roggers 2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[tedroggers2@yopmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[201011]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method status="PASS" signature="sampleTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.selenium.DataProviderTest@62043840]" name="sampleTest" duration-ms="1" started-at="2018-08-06T18:12:22Z" data-provider="getData" finished-at="2018-08-06T18:12:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ted]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roggers 3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[tedroggers3@yopmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[201012]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method status="PASS" signature="sampleTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.selenium.DataProviderTest@62043840]" name="sampleTest" duration-ms="1" started-at="2018-08-06T18:12:22Z" data-provider="getData" finished-at="2018-08-06T18:12:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ted]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roggers 5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[tedroggers5@yopmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[201014]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method status="PASS" signature="sampleTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.selenium.DataProviderTest@62043840]" name="sampleTest" duration-ms="0" started-at="2018-08-06T18:12:22Z" data-provider="getData" finished-at="2018-08-06T18:12:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ted]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roggers 4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[tedroggers4@yopmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[201013]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method status="PASS" signature="sampleTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.selenium.DataProviderTest@62043840]" name="sampleTest" duration-ms="0" started-at="2018-08-06T18:12:22Z" data-provider="getData" finished-at="2018-08-06T18:12:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ted]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roggers 6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[tedroggers6@yopmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[201015]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+      </class> <!-- com.test.selenium.DataProviderTest -->
+    </test> <!-- Test Customer Setup -->
+  </suite> <!-- NYRR Test Frontend -->
+</testng-results>

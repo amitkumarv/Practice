@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="NYRR Test Frontend" verbose="1" allow-return-values="true">
+	<test name="Test Customer Setup">
+		<classes>
+			<class name="com.test.selenium.DataProviderTest" />
+		</classes>
+	</test>
+</suite>
