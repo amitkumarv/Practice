@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [NYRR Test Frontend]" allow-return-values="true">
-  <test name="Test Customer Setup(failed)">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
     <classes>
-      <class name="com.test.selenium.DataProviderTest">
+      <class name="com.test.selenium.TestClass">
         <methods>
-          <include name="sampleTest"/>
+          <include name="testLogin"/>
+          <include name="comment"/>
+          <include name="setup"/>
         </methods>
-      </class> <!-- com.test.selenium.DataProviderTest -->
+      </class> <!-- com.test.selenium.TestClass -->
     </classes>
-  </test> <!-- Test Customer Setup(failed) -->
-</suite> <!-- Failed suite [NYRR Test Frontend] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
